@@ -1,0 +1,24 @@
+{
+  "name": "tspencil",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiburt/tsPencil.git"
+  },
+  "author": "Maxim Zhiburt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zhiburt/tsPencil/issues"
+  },
+  "homepage": "https://github.com/zhiburt/tsPencil#readme",
+  "devDependencies": {
+    "materialize-css": "^1.0.0-alpha.3",
+    "webpack": "^3.10.0"
+  }
+}
