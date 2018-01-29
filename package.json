@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/zhiburt/tsPencil#readme",
   "devDependencies": {
+    "jquery": "^3.3.1",
     "materialize-css": "^1.0.0-alpha.3",
     "ts-loader": "^3.3.1",
     "webpack": "^3.10.0"
