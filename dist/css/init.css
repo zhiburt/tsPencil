@@ -1,0 +1,27 @@
+body{
+    background-color: #eeeeee ;
+}
+
+
+.comments{
+    margin-top: 5rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+#comment > blockquote{
+    padding-top: 2rem;
+    padding-bottom: 2rem;    
+}
+
+blockquote{
+    border-left: 5px solid orange;
+}
+
+.icon{
+    font-size: 240px;
+}
+
+.comments{
+    background-color: #455a64;
+}
